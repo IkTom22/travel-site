@@ -1,0 +1,20 @@
+/*setting variables*/
+$mainBlue: #306390;
+
+body{
+    color: blueviolet;
+    margin: 20px;
+    columns: 300ps 2;
+    color: $mainBlue;
+}
+
+.box {
+    a {
+        display: block;
+        padding: 10px;
+    }
+    p{
+        font-size: 1em;
+        padding: 20px;
+    }
+}

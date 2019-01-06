@@ -1,0 +1,19 @@
+/*setting variables*/
+
+body{
+    color: blueviolet;
+    margin: 20px;
+    -webkit-columns: 300ps 2;
+            columns: 300ps 2;
+    color: #306390;
+}
+
+.box a {
+        display: block;
+        padding: 10px;
+    }
+
+.box p{
+        font-size: 1em;
+        padding: 20px;
+    }
